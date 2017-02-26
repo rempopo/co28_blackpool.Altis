@@ -1,3 +1,6 @@
+
+// Briefing written by Shutse, don't blame me pls!!!
+
 //     tSF Briefing
 // Do not modify this part
 #define BRIEFING		_briefing = [];
