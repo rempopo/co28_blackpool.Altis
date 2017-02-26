@@ -8,7 +8,7 @@
     /* Groups: */
     [
         [
-            20, /* Groups quantity */
+            8, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -17,7 +17,7 @@
             ]
         ]
         ,[
-            6, /* Groups quantity */
+            3, /* Groups quantity */
             /* Units */
             [
                 ["CUP_I_Datsun_PK_TK", "Vehicle Patrol", "kit_hzb_cargo"]
@@ -36,7 +36,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -67,7 +67,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -98,7 +98,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -129,7 +129,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -160,7 +160,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -191,7 +191,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -220,7 +220,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -248,7 +248,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -276,7 +276,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -304,7 +304,7 @@
     /* Groups: */
     [
         [
-            2, /* Groups quantity */
+            1, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
@@ -333,7 +333,7 @@
     /* Groups: */
     [
         [
-            3, /* Groups quantity */
+            2, /* Groups quantity */
             /* Units */
             [
                 ["O_Soldier_F", [], "kit_hzb_random"]
